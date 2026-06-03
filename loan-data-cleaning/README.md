@@ -1,5 +1,4 @@
 This project focuses on cleaning and preparing a bank loan dataset containing 5,000 customer records. The goal was to take a raw CSV file and turn it into a structured, reliable dataset that can be used for analysis or modeling. The work includes checking data quality, fixing inconsistencies, handling missing values, and exporting a clean version of the file.
-click on the link to view this project on google colab:
 
 Dataset
 The dataset includes customer demographic and financial information such as:
